@@ -45,9 +45,14 @@ This project demonstrates random number generation using modern C++ libraries, i
 
 ---
 
-## 🛠 How To Compile & Run
+🛠 How To Compile & Run
 
-### Compile
+Compile:
+g++ -std=c++17 Number_Guessing_Game.cpp -o game
 
-```bash
-g++ main.cpp -o game
+Run:
+On Windows:
+game
+
+On Linux/Mac:
+./game
